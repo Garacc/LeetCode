@@ -27,3 +27,36 @@
 606. Construct String from Binary Tree：中序遍历
 
 127. Word Ladder：BFS，需要考虑wordlist的类型，如果是list会超时，所以需要选用set
+
+126. Word Ladder II：待完成
+
+718. Maximum Length of Repeated Subarray：基本匹配
+
+209. Minimum Size Subarray Sum：注意避免TLE
+
+76. Minimum Window Substring：因为元素个数问题，不能用set
+
+324. Wiggle Sort II：基于中间值的三段排序，或者直接排序
+
+75. Sort Colors：/
+
+71. Simplify Path：split和join的使用
+
+5. Longest Palindromic Substring：和718不同，首先需要判断回文点
+
+647. Palindromic Substrings：题目要求低，所以O(n2)的不会TLE，还是马拉车算法学习一个
+
+214. Shortest Palindrome：easy game
+
+516. Longest Palindromic Subsequence：DP
+
+730. Count Different Palindromic Subsequences：比较难的DP，需要重新做
+
+
+
+
+
+
+
+
+
