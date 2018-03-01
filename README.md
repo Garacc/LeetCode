@@ -91,3 +91,7 @@
 378. Kth Smallest Element in a Sorted Matrix：bisect的灵活使用
 
 *719. Find K-th Smallest Pair Distance：和378类似，但容易TLE，难
+
+273. Integer to English Words：注意打表的拼写
+
+12. Integer to Roman：暴力打表
