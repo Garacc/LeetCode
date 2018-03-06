@@ -97,3 +97,43 @@
 12. Integer to Roman：暴力打表
 
 13. Roman to Integer：判断低位字母的位置，标flag
+
+101. Symmetric Tree：递归
+
+*207. Course Schedule：DFS
+
+383. Ransom Note：统计
+
+*691. Stickers to Spell Word：DP，比较难
+
+1. Two Sum：/
+
+167. Two Sum II - Input array is sorted：双指针，按1的做法会TLE
+
+653. Two Sum IV - Input is a BST：/
+
+381. Insert Delete GetRandom O(1) - Duplicates allowed：构造完整的数据结构
+
+380. Insert Delete GetRandom O(1)：同上
+
+2. Add Two Numbers：/
+
+445. Add Two Numbers II：/
+
+492. Construct the Rectangle：/
+
+459. Repeated Substring Pattern：/
+
+686. Repeated String Match：/
+
+28. Implement strStr()：/
+
+234. Palindrome Linked List.py：/
+
+206. Reverse Linked List：/
+
+92. Reverse Linked List II：比上一个调起来稍难
+
+160. Intersection of Two Linked Lists：/
+
+*143. Reorder List：in-place，难
