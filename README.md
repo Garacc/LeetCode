@@ -137,3 +137,29 @@
 160. Intersection of Two Linked Lists：/
 
 *143. Reorder List：in-place，难
+
+398. Random Pick Index：/
+
+382. Linked List Random Node：Reservoir Sampling，水池抽样
+
+69. Sqrt(x)：/
+
+*316. Remove Duplicate Letters：难，启发式思路
+
+367. Valid Perfect Square：/
+
+633. Sum of Square Numbers：/
+
+50. Pow(x, n)：/
+
+372. Super Pow：注意TLE
+
+65. Valid Number：trick method，还可以用re和DFA敏感字过滤
+
+8. String to Integer (atoi)：注意细节
+
+55. Jump Game：/
+
+763. Partition Labels：/
+
+767. Reorganize String：/
