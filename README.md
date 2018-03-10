@@ -163,3 +163,35 @@
 763. Partition Labels：/
 
 767. Reorganize String：/
+
+303. Range Sum Query - Immutable：求和数组
+
+307. Range Sum Query - Mutable：线段树(还可以用BIT)
+
+304. Range Sum Query 2D - Immutable：求和数组强化版
+
+3. Longest Substring Without Repeating Characters：双指针
+
+4. Median of Two Sorted Arrays.py：/
+
+766. Toeplitz Matrix：/
+
+6. ZigZag Conversion：模拟
+
+678. Valid Parenthesis String：/
+
+556. Next Greater Element III：注意32bit数，判断上限
+
+496. Next Greater Element I：/
+
+503. Next Greater Element II：/
+
+20. Valid Parentheses：/
+
+*591. Tag Validator：RE
+
+22. Generate Parentheses：/
+
+*32. Longest Valid Parentheses：DP
+
+*301. Remove Invalid Parentheses：BFS
