@@ -195,3 +195,11 @@
 *32. Longest Valid Parentheses：DP
 
 *301. Remove Invalid Parentheses：BFS
+
+283. Move Zeroes：/
+
+27. Remove Element：/
+
+26. Remove Duplicates from Sorted Array：/
+
+203. Remove Linked List Elements：/
