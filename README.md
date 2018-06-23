@@ -203,3 +203,47 @@
 26. Remove Duplicates from Sorted Array：/
 
 203. Remove Linked List Elements：/
+
+413. Arithmetic Slices：/
+
+522. Longest Uncommon Subsequence II：/
+
+295. Find Median from Data Stream：heap
+
+480. Sliding Window Median：/
+
+100. Same Tree：/
+
+669. Trim a Binary Search Tree：/
+
+623. Add One Row to Tree：/
+
+213. House Robber II：/
+
+198. House Robber：/
+
+337. House Robber III：/
+
+637. Average of Levels in Binary Tree：/
+
+102. Binary Tree Level Order Traversal：/
+
+107. Binary Tree Level Order Traversal II：/
+
+124. Binary Tree Maximum Path Sum：/
+
+112. Path Sum：negative value is possible
+
+113. Path Sum II：/
+
+437. Path Sum III：/
+
+798. Smallest Rotation with Highest Score：/
+
+43. Multiply Strings：/
+
+66. Plus One：/
+
+67. Add Binary：/
+
+415. Add Strings：/
