@@ -247,3 +247,23 @@
 67. Add Binary：/
 
 415. Add Strings：/
+
+172. Factorial Trailing Zeroes：/
+
+233. Number of Digit One：/
+
+9. Palindrome Number：/
+
+326. Power of Three：/
+
+231. Power of Two：/
+
+342. Power of Four：/
+
+754. Reach a Number：考虑如何达到最小
+
+258. Add Digits：/
+
+645. Set Mismatch：/
+
+357. Count Numbers with Unique Digits：/
